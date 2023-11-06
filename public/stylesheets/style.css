@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.bluegrad-bg {
+  background-image: linear-gradient(to bottom, #88e, #00f, #00c);
+}
+
+.white {
+  color: #fff;
+}
+
+.messhead-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 10px;
+}
+
+.mess-name {
+  font-size: 1.3em;
+  margin-right: 50px;
+}
